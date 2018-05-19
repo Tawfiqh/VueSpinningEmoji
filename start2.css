@@ -13,6 +13,12 @@ body{
  padding-top: 0;
 }
 
+@media (max-width: 767px){
+  #app{
+    padding: 25px;
+  }
+}
+
 .toggle-bar{
  font-size: 50px;
  text-decoration: none;
